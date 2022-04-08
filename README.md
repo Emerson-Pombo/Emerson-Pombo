@@ -4,6 +4,13 @@
 <br>
 <br>
 
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<br>
+<br>
+
 <div>
 <a href="https://github.com/Emerson-Pombo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Pombo&layout=compact&langs_count=7&theme=dracula"/>
