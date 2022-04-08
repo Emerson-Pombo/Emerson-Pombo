@@ -10,6 +10,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-Pombo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+ <br>
+ <br>
+ 
+![Snake animation](https://github.com/Emerson-Pombo/Emerson-Pombo/blob/output/github-contribution-grid-snake.svg)
 
 
 
